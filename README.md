@@ -36,7 +36,8 @@ Visualização de todos os eventos disponíveis:
 
 Visualização de um evento escolhido específico:
 
-![view_event](https://user-images.githubusercontent.com/56659030/219883307-dce3e7fb-7761-4f4c-a611-9c84d331a281.png)
+
+ ![view_event](https://user-images.githubusercontent.com/56659030/219883307-dce3e7fb-7761-4f4c-a611-9c84d331a281.png)
 
 
 
